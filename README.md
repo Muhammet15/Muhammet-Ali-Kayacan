@@ -4,7 +4,7 @@
   
 - 🎓 I graduated from Kastamonu University Computer Engineering
 - 🔭 I’m currently learning & developing **Php** and **Python**
-- 💬 Age:**25**, **Living in**: Turkey, Istanbul
+- 💬 **Age**:25, **Living in**: Turkey, Istanbul
 - 📫 Contact me **muhammedkayacan3@gmail.com**
 
 <h1></h1> 
