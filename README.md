@@ -8,6 +8,7 @@
 - 📫 Contact me **muhammedkayacan3@gmail.com**
 
 <h1></h1> 
+### 👨‍💻 Languages I know/work with
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -18,7 +19,7 @@
 <h1></h1>
 
 ### 🔖 Things I want to study
-![PHP]([https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)) ![Laravel]([https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)) ![SQL]([https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white))
+	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
   ### 📝 IDEs I use
@@ -31,6 +32,6 @@
 </a>
 <a href="mailto:muhammedkayacan3@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Marechal Dev#3500" />
+
 ---
 
