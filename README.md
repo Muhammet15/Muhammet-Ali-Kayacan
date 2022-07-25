@@ -4,7 +4,7 @@
 
   
 - 🎓 I graduated from Kastamonu Üniversitesi
-- 🔭 I’m currently learning & developing **Php and **Python**
+- 🔭 I’m currently learning & developing **Php** and **Python**
 - 💬 You can ask me about **anything**.
 - 📫 Contact me **muhammedkayacan3@gmail.com**
 
