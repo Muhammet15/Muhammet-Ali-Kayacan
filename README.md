@@ -16,10 +16,7 @@
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <h1></h1>
-### 📈 Stats
-![Muhammet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammet15-dev&show_icons=true&theme=synthwave)
-<h1></h1>
-  
+
 ### 🔖 Things I want to study
 ![PHP]([https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)) ![Laravel]([https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)) ![SQL]([https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white))
 
